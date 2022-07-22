@@ -1,4 +1,4 @@
-# algo
+#Algorithm
 This Repo contains Basic Algorithm problems patterns and problems matching the problem pattern
 
 #Dynamic Programming
