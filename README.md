@@ -11,4 +11,4 @@ The definition of dynamic programming says that it is a technique for solving a 
 
 [LCS](/org/algo/dp/lcs/README.md)
 
-[SlidingWindow](/org/algo/dp/slidingwindow/README.md)
+[SlidingWindow](/src/org/algo/dp/slidingwindow/README.md)
