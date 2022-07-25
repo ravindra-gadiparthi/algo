@@ -1,5 +1,5 @@
 # algo
-This Repo contains Basic Algorithm problems patterns and problems matching the problem pattern
+This Repo contains Sliding Window problems and some problems with solved with sliding window pattern
 
 #Sliding Window
 
@@ -26,10 +26,10 @@ Fixed Window Template
 ```
 |Problem|Solution|
 --------|--------
-|[Max Sum of Sub Array](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k)| 
-|[Max of Sub Array](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k-using-stack-in-on-time)|
-|[First -ve Integer in every subarray](https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/)|
-|[Count of anagrams](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|
+|[Max Sum of Sub Array](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/basic/EfficientSolution.java)
+|[Max of Sub Array](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k-using-stack-in-on-time)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/MaxElementInSubArray.java)
+|[First -ve Integer in every subarray](https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/FirstNegativeNumberInWindow.java)
+|[Count of anagrams](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/CountAnagramOccurrences.java)
 
 Variable Size Window Template
 
@@ -56,6 +56,6 @@ j++
 ```
 |Problem|Solution|
 --------|--------
-|[Longest Subarray with Sum K](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)|
-|[Longest SubString with K repeating chars](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)|
-|[Longest SubString with Unique Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+|[Longest Subarray with Sum K](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/basic/LongestSubArrayWithSum.java)
+|[Longest SubString with K repeating chars](https://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/LongestSubStringWithKUniqueChar.java)
+|[Longest SubString with Unique Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/LongestSubStringWithKUniqueChar.java)
