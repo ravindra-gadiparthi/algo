@@ -26,3 +26,4 @@ template
 --------|--------
 |[Binary Search](https://leetcode.com/problems/binary-search/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/basic/BinarySearch.java)
 |[Binary Search in Reverse sorted array](https://www.geeksforgeeks.org/search-an-element-in-a-reverse-sorted-array/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/BinarySearchOnReverseSortedArray.java)
+|[First&Last Occurrence of element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FirstAndLastOccurrence.java)|
