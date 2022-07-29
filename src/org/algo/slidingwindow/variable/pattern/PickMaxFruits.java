@@ -1,4 +1,4 @@
-package org.algo.dp.slidingwindow.variable.pattern;
+package org.algo.slidingwindow.variable.pattern;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,9 +15,9 @@ public class PickMaxFruits {
     public int maxFruits(int fruits[]){
         int maxPicks =2;
         Map<Integer,Integer> picks = new HashMap<>();
-        int i=0,j=0,max=0;
+        int i=0,max=0;
 
-        while (j<fruits.length){
+        for(int j=0;j<fruits.length;j++){
             int currentType = fruits[j];
             if(picks.containsKey(currentType)){
                 picks.put(currentType,picks.get(currentType)+1);
@@ -27,7 +27,6 @@ public class PickMaxFruits {
 
             if(picks.size()<=maxPicks){
                 max = Math.max(max, j - i + 1);
-                j++;
             }else if(picks.size() > maxPicks){
                 while (picks.size()>maxPicks){
                     int firstPick = fruits[i];
@@ -37,7 +36,6 @@ public class PickMaxFruits {
                     }
                     i++;
                 }
-                j++;
             }
         }
 

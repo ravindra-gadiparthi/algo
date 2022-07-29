@@ -1,4 +1,4 @@
-package org.algo.dp.slidingwindow.variable.pattern;
+package org.algo.slidingwindow.variable.pattern;
 
 import java.util.HashMap;
 import java.util.Map;

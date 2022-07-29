@@ -3,7 +3,7 @@ This Repo contains Sliding Window problems and some problems with solved with sl
 
 #Sliding Window
 
-[Sliding Window](/org/algo/dp/slidingwindow/README.md)
+[Sliding Window](/org/algo/slidingwindow/README.md)
 
 Fixed Window Template
 
@@ -26,32 +26,27 @@ Fixed Window Template
 ```
 |Problem|Solution|
 --------|--------
-|[Max Sum of Sub Array](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/basic/EfficientSolution.java)
-|[Max of Sub Array](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k-using-stack-in-on-time)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/MaxElementInSubArray.java)
-|[First -ve Integer in every subarray](https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/FirstNegativeNumberInWindow.java)
-|[Count of anagrams](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/fixed/patterns/CountAnagramOccurrences.java)
+|[Max Sum of Sub Array](https://www.geeksforgeeks.org/find-maximum-minimum-sum-subarray-size-k)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/fixed/basic/EfficientSolution.java)
+|[Max of Sub Array](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k-using-stack-in-on-time)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/fixed/patterns/MaxElementInSubArray.java)
+|[First -ve Integer in every subarray](https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/fixed/patterns/FirstNegativeNumberInWindow.java)
+|[Count of anagrams](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/fixed/patterns/CountAnagramOccurrences.java)
 
 Variable Size Window Template
 
 ```
-
 int i,j,tempCalculation
-while(j<array.length){
-calculations
-if(condition < k){
-j++
-}else if(condition == k)
-{
-    answer = from calculations
-    j++
-}else if(condition>k){
-    while(condition>k)
-    {
-        remove the caculations of i;
-        i++
-        j++;
+for(int j=0;j<array.length;j++){
+    pre Calculations
+    if(condition==target){
+        findout answer
+    }else if(condition>k){
+        while(condition>k){
+            remove calculations
+            i++
+        }
     }
 }
+
 
 ```
 |Problem|Solution|
@@ -61,3 +56,4 @@ j++
 |[Longest SubString with Unique Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/LongestSubStringWithKUniqueChar.java)
 |[Minimum Window Substrubg](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/MinWindowSubString.java)|
 |[Pick Toys/Pick Fruits](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/PickMaxFruits.java)|
+|[Min sub array with sun](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/slidingwindow/variable/pattern/MinSizeSumSubArray.java)|

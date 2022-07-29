@@ -1,14 +1,14 @@
-package org.algo.dp.slidingwindow.variable.basic;
+package org.algo.slidingwindow.variable.basic;
 
 import java.util.Arrays;
 
 public class LongestSubArrayWithSum {
     public static void main(String[] args) {
         LongestSubArrayWithSum solution = new LongestSubArrayWithSum();
-        solution.solution(new int[]{4,2,1,1,1,1,5},5);
+        solution.solutionMax(new int[]{4,2,1,1,1,1,5},5);
     }
 
-    public int solution(int array[],int sum){
+    public int solutionMax(int array[],int sum){
         int i=0,j=0,currentSum=0,max=0;
         while(j<array.length) {
             currentSum += array[j];

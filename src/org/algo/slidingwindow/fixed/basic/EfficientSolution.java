@@ -1,4 +1,4 @@
-package org.algo.dp.slidingwindow.fixed.basic;
+package org.algo.slidingwindow.fixed.basic;
 
 public class EfficientSolution {
     public static void main(String[] args) {

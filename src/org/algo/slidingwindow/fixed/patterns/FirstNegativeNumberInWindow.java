@@ -1,4 +1,4 @@
-package org.algo.dp.slidingwindow.fixed.patterns;
+package org.algo.slidingwindow.fixed.patterns;
 
 import java.util.ArrayList;
 import java.util.List;
