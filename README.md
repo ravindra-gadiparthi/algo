@@ -7,8 +7,10 @@ This Repo contains Basic Algorithm problems patterns and problems matching the p
 The definition of dynamic programming says that it is a technique for solving a complex problem by first breaking into a collection of simpler subproblems, solving each subproblem just once, and then storing their solutions to avoid repetitive computations.
 
 
-[Knapsack](/org/algo/dp/knacksack/bounded/basic/README.md)
+[Knapsack](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/knapsack/bounded/README.md)
 
-[LCS](/org/algo/dp/lcs/README.md)
+[LCS](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/lcs/README.md)
 
-[SlidingWindow](/org/algo/slidingwindow/README.md)
+[SlidingWindow](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/README.md)
+
+[Binary Search]({https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/README.md)
