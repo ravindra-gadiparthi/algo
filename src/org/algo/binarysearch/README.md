@@ -1,6 +1,6 @@
 Binary Search Algorithm
 
-<img src="https://dev.to/techlearners/binary-search-algorithm-explained-2nn5"></img>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Uj818KRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5hsod7t93v85b23rk671.png"></img>
 
 template
 ```java
