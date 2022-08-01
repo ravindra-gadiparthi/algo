@@ -14,6 +14,7 @@ public class RotationInSortedArray {
             int prev = (mid-1+n)%n;
 
             if(array[mid]<array[prev] && array[mid]<array[next]){
+                // return array[mid]; for min element in sorted array
                 return mid;
             }else if(array[mid]> array[end]){
                 start = mid+1;

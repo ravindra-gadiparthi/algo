@@ -29,3 +29,7 @@ template
 |[First&Last Occurrence of element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FirstAndLastOccurrence.java)|
 |[# of Rotations in Sorted Array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/RotationInSortedArray.java)|
 |[Min Element in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/RotationInSortedArray.java)|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindElementInRotatedSortedArray.java)|
+|[Find Element in nearly sorted Array](https://www.geeksforgeeks.org/search-almost-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindElementInNearlySortedArray.java)|
+|[Single Duplicate element](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/SingleNonDuplicateValue.java)|
+
