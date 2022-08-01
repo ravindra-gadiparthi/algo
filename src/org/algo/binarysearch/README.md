@@ -32,4 +32,7 @@ template
 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindElementInRotatedSortedArray.java)|
 |[Find Element in nearly sorted Array](https://www.geeksforgeeks.org/search-almost-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindElementInNearlySortedArray.java)|
 |[Single Duplicate element](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/SingleNonDuplicateValue.java)|
+|[Floor in Sorted Array](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FloorInSortedArray.java)|
+|[Ceil in Sorted Array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/CeilInSortedArray.java)|
+|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/SearchInsertPosition.java)|
 
