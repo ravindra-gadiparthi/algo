@@ -35,4 +35,5 @@ template
 |[Floor in Sorted Array](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FloorInSortedArray.java)|
 |[Ceil in Sorted Array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/CeilInSortedArray.java)|
 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/SearchInsertPosition.java)|
+|[Smallest Letter grater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindNextAlphabet.java)|
 
