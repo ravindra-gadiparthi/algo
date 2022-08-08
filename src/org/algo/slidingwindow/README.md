@@ -1,9 +1,6 @@
-# algo
-This Repo contains Sliding Window problems and some problems with solved with sliding window pattern
-
 #Sliding Window
 
-[Sliding Window](/org/algo/slidingwindow/README.md)
+<img src="https://miro.medium.com/max/1400/1*HN084lMD15SWjH6epVeSAg.gif"></img>
 
 Fixed Window Template
 
