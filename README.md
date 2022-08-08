@@ -14,3 +14,5 @@ The definition of dynamic programming says that it is a technique for solving a 
 [SlidingWindow](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/slidingwindow/README.md)
 
 [BinarySearch](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/README.md)
+
+[Heap](https://github.com/ravindra-gadiparthi/algorithm/tree/main/src/org/algo/heap/README.md)
