@@ -36,3 +36,5 @@ template
 |[Top K frequent numbers](https://www.geeksforgeeks.org/find-k-closest-numbers-in-an-unsorted-array/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/heap/patterns/TopKFrequentNumbers.java)
 |[Sort By Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/heap/patterns/FrequencySort.java)
 |[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/heap/patterns/KClosestPointToOrigin.java)
+|[Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/heap/patterns/ConnectRopesMinimiseCost.java)
+|[Sum b/w k1 and k2 smallest element](https://practice.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/heap/patterns/SumBetweenK1K2Elements.java)
