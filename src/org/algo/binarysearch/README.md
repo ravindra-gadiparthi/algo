@@ -36,4 +36,8 @@ template
 |[Ceil in Sorted Array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/CeilInSortedArray.java)|
 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/SearchInsertPosition.java)|
 |[Smallest Letter grater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindNextAlphabet.java)|
+|[Min Diff in a sorted array](https://www.callicoder.com/minimum-difference-element-in-sorted-array/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/MinDiffInSortedArray.java)|
+|[Find Peak Element](https://leetcode.com/problems/find-peak-element/solution/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/FindPeakElement.java)|
+|[Allocate minimum number of pages](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)|[Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/binarysearch/patterns/MaxAllocatedPages.java)|
+
 
