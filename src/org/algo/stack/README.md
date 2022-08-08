@@ -1,4 +1,4 @@
-Stack
+# Stack
 
 <img src="https://static.javatpoint.com/core/images/java-stack.png"></img>
 

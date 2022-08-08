@@ -1,5 +1,8 @@
-Heap Patterns
+# Heap Patterns
 
+**PriorityQueue Class**
+
+PriorityQueue is also class that is defined in the collection framework that gives us a way for processing the objects on the basis of priority. It is already described that the insertion and deletion of objects follows FIFO pattern in the Java queue. However, sometimes the elements of the queue are needed to be processed according to the priority, that's where a PriorityQueue comes into action.
 Max Heap
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20201106115254/MaxHeap.jpg"></img>
