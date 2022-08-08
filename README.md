@@ -7,7 +7,7 @@ This Repo contains Basic Algorithms and problems matching its patterns.
 
 [Stack](https://github.com/ravindra-gadiparthi/algorithm/tree/main/src/org/algo/stack/README.md)
 
-[Knapsack](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/knapsack/bounded/README.md)
+[Knapsack](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/dp/knapsack/bounded/README.md)
 
 [LCS](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/lcs/README.md)
 

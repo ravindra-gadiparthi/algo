@@ -1,4 +1,4 @@
-#Sliding Window
+# Sliding Window
 
 <img src="https://miro.medium.com/max/1400/1*HN084lMD15SWjH6epVeSAg.gif"></img>
 
