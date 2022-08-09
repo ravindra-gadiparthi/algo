@@ -1,4 +1,4 @@
-# Stack
+[# Stack
 
 <img src="https://static.javatpoint.com/core/images/java-stack.png"></img>
 
@@ -37,9 +37,20 @@ Useful methods
 </tr>
 </tbody></table>
 
-template
+template for Nearest elements
 ```
+Stack stack = new Stack()
+for loop [1-N or N to 1]{
+    while(stack not empty and stack.peek() failed to meet condition)
+    {
+        stack.pop();
+    }
+    tempAns = stack.isEmpty()?-1:stack.peek()
+    stack.push(currentValue)
+    }
 ```
 |Problem|Solution|
 --------|--------
-|[Next Largest Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NextLargestElement.java)
+|[Next Largest Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NextLargestElement.java)]
+|[Next Smaller Left Element](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NearestSmallerToLeft.java)]
+|[Stock Span](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/StockSpanProblem.java)]
