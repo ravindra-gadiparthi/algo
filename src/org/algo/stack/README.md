@@ -51,7 +51,9 @@ for loop [1-N or N to 1]{
 ```
 |Problem|Solution|
 --------|--------
-|[Next Largest Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NextLargestElement.java)]
-|[Next Smaller Left Element](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NearestSmallerToLeft.java)]
-|[Stock Span](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/StockSpanProblem.java)]
-|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaximumAreaHistogram.java)]
+|[Next Largest Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NextLargestElement.java)
+|[Next Smaller Left Element](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/NearestSmallerToLeft.java)
+|[Stock Span](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/StockSpanProblem.java)
+|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaximumAreaHistogram.java)
+|[Maximal Rectangle in Binary Array](https://leetcode.com/problems/maximal-rectangle/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaxAreaOfRectangleInBinaryMatrix.java)
+|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/RainWaterTrapping.java)
