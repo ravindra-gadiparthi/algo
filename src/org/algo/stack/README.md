@@ -57,3 +57,4 @@ for loop [1-N or N to 1]{
 |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaximumAreaHistogram.java)
 |[Maximal Rectangle in Binary Array](https://leetcode.com/problems/maximal-rectangle/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaxAreaOfRectangleInBinaryMatrix.java)
 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/RainWaterTrapping.java)
+|[Min Stack](https://leetcode.com/problems/min-stack/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MinimumElementInStack.java)
