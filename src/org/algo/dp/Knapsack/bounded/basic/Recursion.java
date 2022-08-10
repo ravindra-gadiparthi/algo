@@ -1,4 +1,4 @@
-package org.algo.dp.knacksack.bounded.basic;
+package org.algo.dp.Knapsack.bounded.basic;
 
 public class Recursion {
     public static void main(String[] args) {

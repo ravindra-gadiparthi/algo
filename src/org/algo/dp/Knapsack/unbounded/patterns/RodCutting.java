@@ -1,4 +1,4 @@
-package org.algo.dp.knacksack.unbounded.patterns;
+package org.algo.dp.Knapsack.unbounded.patterns;
 
 
 class RodCutting {
