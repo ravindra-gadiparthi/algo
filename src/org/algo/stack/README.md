@@ -58,3 +58,4 @@ for loop [1-N or N to 1]{
 |[Maximal Rectangle in Binary Array](https://leetcode.com/problems/maximal-rectangle/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MaxAreaOfRectangleInBinaryMatrix.java)
 |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/RainWaterTrapping.java)
 |[Min Stack](https://leetcode.com/problems/min-stack/)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MinimumElementInStack.java)
+|[Min Stack without Extra Space](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack)| [Solution](https://github.com/ravindra-gadiparthi/algorithm/blob/main/src/org/algo/stack/basic/MinStackWithoutExtraSpace.java)
